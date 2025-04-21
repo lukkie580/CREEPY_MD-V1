@@ -6,9 +6,9 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "255697608274"
-global.ownername = "𝐷𝛥𝛮𝛮𝑌"
-global.ownernumber = '255697608274'  //owner number 2
+global.ownernomer = "2348152690430"
+global.ownername = "lukkie󱢏"
+global.ownernumber = '2348152690430'  //owner number 2
 //put your phone number above
 //let the owner as Danny or you can just put your name
 
@@ -17,20 +17,17 @@ global.prefa = [',','!','.','#','&']
 //above is a prefix for activating bot
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
+global.autoRecording = true //auto recording
 global.autoTyping = true //auto typing
-global.autorecordtype = false //auto typing + recording
+global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
 global.anti91 = false //auto block +91 
 global.autoswview = true //auto view status/story
 global.antilink = true; // Default: disabled
 global.autostatusReact = true; // Default: disabled
-global.reactEmoji = '😂'; // Default reaction emoji
-//Thank you for using 𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓-𝓥𝟏
-//suppoet us by following our official channel
-//https://whatsapp.com/channel/0029VacQFw65Ui2gGv0Kwk1r
-//𝓬𝓻𝓮𝓪𝓽𝓮𝓭 𝓫𝔂 𝒟𝒶𝓃𝓃𝓎
+global.reactEmoji = '😁'; // Default reaction emoji
+global.alwaysonline = true //auto online
 
 
 
@@ -45,7 +42,7 @@ global.mess = {
     done: "`Bot Creepy Done..!`",
     prem: "`Oh no 😔! This for creepy premium users only...`",
     admin: "`Only Admins can use this 😩`",
-    botAdmin: "`🤖 I'm not an admin here 🚶`",
+    botAdmin: "`🥲 I'm not an admin here 🚶`",
     owner: "`You are not my owner 😡`",
     group: "`This is only for groups idiot?🤔`",
     private: "`Use this in my Dm 😡`",
@@ -56,23 +53,22 @@ global.mess = {
 global.ytname = "YT: https://www.youtube.com/@creepy_technology";
 global.socialm = "GitHub: https://github.com/DannyTech20";
 global.location = "Arusha/Tanzania";
-global.ownername = "𝐷𝛥𝛮𝛮𝑌";
+global.ownername = "lukkie";
 global.botname = "CREEPY_MD-V1"; 
 
 // Sticker details
 global.packname = "Creepy-Tech";
-global.author = "Danny";
+global.author = "lukkie";
 
 // Console view/theme
-global.themeemoji = "🤖";
-global.wm = "Danny";
+global.themeemoji = "🥲";
+global.wm = "lukkie";
 
-global.link = "https://whatsapp.com/channel/0029VacQFw65Ui2gGv0Kwk1r";
 
 global.typemenu = "v1";
 
 global.xbugtex = {
-    xtxt: "Danny🤖",
+    xtxt: "lukkie🤖",
 };
 
 
